@@ -1,0 +1,8 @@
+**/TestResults/
+**/bin/
+**/.vs/
+#**/Properties
+**/obj/
+/.out
+/packages
+*.pfx
